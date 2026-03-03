@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+
+# Data and models (too large)
+data/
+models/*.pth
+models/*.pkl
+
+# Working/internal documents
+COLAB_GUIDE.md
+QUICKSTART.md
+DELIVERABLES.md
+REPORT_TEMPLATE.md
+REPORT_SOURCE_REFERENCES.md
+reference/
+
+# Generated files
+FINAL_REPORT.docx
+*.doc
+*.docx
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
