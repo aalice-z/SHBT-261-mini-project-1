@@ -225,4 +225,5 @@ This repository includes experimental results in the `figures/` directory:
 
 ## Author
 
-Alice Zhang
+Yue (Alice) Zhang
+Harvard T.H. Chan School of Public Health
