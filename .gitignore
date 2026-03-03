@@ -20,12 +20,14 @@ QUICKSTART.md
 DELIVERABLES.md
 REPORT_TEMPLATE.md
 REPORT_SOURCE_REFERENCES.md
+FINAL_REPORT.md
 reference/
 
 # Generated files
 FINAL_REPORT.docx
 *.doc
 *.docx
+*.pdf
 
 # OS
 .DS_Store
